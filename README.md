@@ -8,7 +8,7 @@
   </div>
 <div align="center" >
 <!-- just img 图片 -->
-<img src="https://upload.yolo912.icu/mdImage/programer.gif" width="375" height="210" /><br>
+<img src="./https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435" width="375" height="210" /><br>
 
 <br>
 
