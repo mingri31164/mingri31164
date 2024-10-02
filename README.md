@@ -8,7 +8,7 @@
   </div>
 <div align="center" >
 <!-- just img 图片 -->
-<img src="./cc78fd1b846e83bbdd11ea162c74fd1d.jpg?font=Fira+Code&pause=1000&width=435" width="500" height="410" /><br>
+<img src="./cc78fd1b846e83bbdd11ea162c74fd1d.jpg?font=Fira+Code&pause=1000&width=435" width="700" height="410" /><br>
 
 <br>
 
