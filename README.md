@@ -30,7 +30,7 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=idea,pycharm,webstorm,redis,rocket,rabbitmq,elasticsearch,git,mongodb,kubernetes,kafka,jenkins" /><br>
+<img src="https://skillicons.dev/icons?i=idea,pycharm,goland,redis,rocket,rabbitmq,elasticsearch,git,mongodb,kubernetes,kafka,jenkins" /><br>
 
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="76" height="76" />
@@ -72,9 +72,9 @@ No Activity Tracked This Week
 
 ```text
 Java                     15 repos            ████████████████░░░░░░░░░   62.50 % 
-Python                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Golang                   5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+Vue2                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
