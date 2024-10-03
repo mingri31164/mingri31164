@@ -30,7 +30,7 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=idea,pycharm,go,redis,rocket,rabbitmq,elasticsearch,git,mongodb,kubernetes,kafka,jenkins" /><br>
+<img src="https://skillicons.dev/icons?i=idea,pycharm,golang,redis,rocket,rabbitmq,elasticsearch,git,mongodb,kubernetes,kafka,jenkins" /><br>
 
 <!-- svg -->
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="76" height="76" />
