@@ -80,7 +80,7 @@ No Activity Tracked This Week
 
 ```text
 Java                     5 repos            ████████████████░░░░░░░░░   62.50 % 
-Golang                   1 repos            █████░░░░░░░░░░░░░░░░░░░░   20.83 %
+Golang                   1 repos           █████░░░░░░░░░░░░░░░░░░░░   20.83 %
 React                    1 repos            ███░░░░░░░░░░░░░░░░░░░░░░   14.83 % 
 Vue3                     2 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 JavaScript               3 repo             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
