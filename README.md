@@ -16,7 +16,7 @@
 </div>  
 
 <!-- 个人介绍 -->
-### <div align="center">✨我是刘仕杰，目标是成为一名优秀的全栈工程师✨</div>  
+### <div align="center">✨我是LDB，想要成为一名优秀的全栈工程师✨</div>  
 
 <br>
 
