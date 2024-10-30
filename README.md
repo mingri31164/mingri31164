@@ -66,7 +66,7 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Getting started with react18 and Vue3 this week
+Getting started with React18 and Vue3 this week
 
 🔥 Editors: 
 Get my first written test opportunity this week！
