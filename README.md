@@ -79,8 +79,8 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     5 repos            ████████████████░░░░░░░░░   62.50 % 
-Golang                   1 repos           █████░░░░░░░░░░░░░░░░░░░░   20.83 %
+Java                     5 repos            ████████████████░░░░░░░░░   62.50 %
+Golang                   1 repos            █████░░░░░░░░░░░░░░░░░░░░   20.83 %
 React                    1 repos            ███░░░░░░░░░░░░░░░░░░░░░░   14.83 % 
 Vue3                     2 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 JavaScript               3 repo             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
