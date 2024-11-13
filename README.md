@@ -15,7 +15,7 @@
 </div>  
 
 <!-- 个人介绍 -->
-### <div align="center">✨Hi！我是MingRi，想要成为一名优秀的全栈开发工程师✨</div>  
+### <div align="center">✨Hi！我是MingRi，想要成为一名优秀的Java开发工程师✨</div>  
 
 <br>
 
