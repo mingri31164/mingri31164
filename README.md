@@ -69,7 +69,7 @@
 Getting started with React18 and Vue3 this week
 
 🔥 Editors: 
-Get my first written test opportunity this week！
+Plan an original microservices project with the team
 
 💻 Operating System: 
 No Activity Tracked This Week
