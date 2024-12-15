@@ -66,8 +66,8 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Getting started with React18 and Vue3 this week
 
+Accumulate the basics of Java, calm down and systematically learn JUC and Mysql
 🔥 Editors: 
 Plan an original microservices project with the team
 
