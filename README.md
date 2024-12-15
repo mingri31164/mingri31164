@@ -9,9 +9,9 @@
 <div align="center" >
 <!-- 头像 -->
 <div align="center">
-<img width="120" src="https://github.com/1321928757/static-resources/blob/main/cxyduck.gif?raw=true" />
+<!-- <img width="120" src="https://github.com/1321928757/static-resources/blob/main/cxyduck.gif?raw=true" /> -->
 <img  src="https://github.com/mingri31164/mingri31164/blob/main/wdf.gif" align="center" height="200" width="200" />
-<img width="120" src="https://github.com/1321928757/static-resources/blob/main/cxyduck.gif?raw=true" />
+<!-- <img width="120" src="https://github.com/1321928757/static-resources/blob/main/cxyduck.gif?raw=true" /> -->
 </div>  
 
 <!-- 个人介绍 -->
