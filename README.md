@@ -10,7 +10,7 @@
 <!-- 头像 -->
 <div align="center">
 <img width="120" src="https://github.com/1321928757/static-resources/blob/main/cxyduck.gif?raw=true" />
-<img  src="https://github.com/mingri31164/mingri31164/blob/main/%E5%A4%A9%E5%A4%A9%E9%85%B7%E8%B7%91.png" align="center" height="200" width="200" />
+<img  src="https://github.com/mingri31164/mingri31164/blob/main/wdf.gif" align="center" height="200" width="200" />
 <img width="120" src="https://github.com/1321928757/static-resources/blob/main/cxyduck.gif?raw=true" />
 </div>  
 
