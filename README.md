@@ -3,7 +3,7 @@
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
     <a href="https://blazemaple.cn/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=System.out.println(%22Hello%2C%20World%22);未Run的小菠萝很想去深圳！&center=true&size=20" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=System.out.println(%22Hello%2C%20World%22);Just Do It！&center=true&size=20" alt="Typing SVG" />
     </a>
   </div>
 <div align="center" >
